@@ -1,7 +1,7 @@
 <h1 align="center">Hello there Narayan Acharya</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Node.js||microservices**
 
 - 💬 Ask me about **node.js ,java**
 
